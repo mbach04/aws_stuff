@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 
-__author__ = "Matthew Bach"
 __license__ = "MIT"
 __version__ = "1.0"
-__email__ = "mbach@redhat.com"
-__status__ = "Production"
 
 """
 The purpose of this script is to extract all aws
